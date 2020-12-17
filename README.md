@@ -14,7 +14,7 @@ See the configuration section for more details.
 
 #### JavaScript
 
-Simply instantiate a new instance of the Truncate object:
+Simply instantiate a new instance of the `Truncate` object:
 
 `const typewriter = new TypeWriter({selector: ".element"});`
 
