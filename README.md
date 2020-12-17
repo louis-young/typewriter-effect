@@ -1,4 +1,4 @@
-# Truncate
+# Typewriter
 
 A lightweight (~1kb) vanilla JavaScript library for producing typewriter effects.
 
