@@ -1,4 +1,6 @@
-# Typewriter
+⚠️ Please note that this is an old project and does not reflect the quality of my current work.
+
+# Typewriter Effect
 
 A lightweight (~1kb) vanilla JavaScript library for producing typewriter effects.
 
