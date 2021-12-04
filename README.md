@@ -31,3 +31,4 @@ You can also pass in configuration options via data attributes below.
 - Words to type - `data-typewriter-words` 
 - Delay between each simulated keystroke - `data-typewriter-delay`
 - Loop the effect - `data-typewriter-loop`
+
